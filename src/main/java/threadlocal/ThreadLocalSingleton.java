@@ -1,5 +1,5 @@
 package threadlocal;
-
+//使用ThreadLocal 来实现多数据源动态切换
 public class ThreadLocalSingleton {
     private  static  final  ThreadLocal<ThreadLocalSingleton> threadLocalInstance =
             new ThreadLocal<ThreadLocalSingleton>(){
