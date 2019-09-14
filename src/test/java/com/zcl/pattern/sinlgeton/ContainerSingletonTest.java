@@ -1,6 +1,6 @@
 package com.zcl.pattern.sinlgeton;
 
-import register.ContainerSingleton;
+import com.zcl.pattern.sinlgeton.register.ContainerSingleton;
 
 public class ContainerSingletonTest {
 

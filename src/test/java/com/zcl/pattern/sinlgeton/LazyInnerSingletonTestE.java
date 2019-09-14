@@ -2,8 +2,7 @@ package com.zcl.pattern.sinlgeton;
 
 import java.lang.reflect.Constructor;
 
-import lazy.LazyInnerSingleton;
-import lazy.LazySimpleSinlgeton;
+import com.zcl.pattern.sinlgeton.lazy.LazyInnerSingleton;
 
 public class LazyInnerSingletonTestE {
   public static void main(String[] args) {

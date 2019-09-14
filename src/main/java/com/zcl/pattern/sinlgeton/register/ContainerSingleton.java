@@ -1,4 +1,4 @@
-package register;
+package com.zcl.pattern.sinlgeton.register;
 
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;

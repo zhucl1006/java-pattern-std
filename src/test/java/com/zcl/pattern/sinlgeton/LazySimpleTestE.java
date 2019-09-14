@@ -2,7 +2,7 @@ package com.zcl.pattern.sinlgeton;
 
 import java.lang.reflect.Constructor;
 
-import lazy.LazySimpleSinlgeton;
+import com.zcl.pattern.sinlgeton.lazy.LazySimpleSinlgeton;
 
 public class LazySimpleTestE {
   public static void main(String[] args) {

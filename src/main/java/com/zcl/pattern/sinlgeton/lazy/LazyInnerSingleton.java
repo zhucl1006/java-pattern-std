@@ -1,4 +1,4 @@
-package lazy;
+package com.zcl.pattern.sinlgeton.lazy;
 
 //这种形式兼顾饿汉式的内存浪费，也兼顾synchronized性能问题
 //完美地屏蔽了这两个缺点

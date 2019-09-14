@@ -1,10 +1,6 @@
 package com.zcl.pattern.sinlgeton;
 
-import com.zcl.pattern.sinlgeton.hungry.HungrySinlgeton;
-
-import lazy.LazyInnerSingleton;
-import lazy.LazySimpleSinlgeton;
-import threadlocal.ThreadLocalSingleton;
+import com.zcl.pattern.sinlgeton.threadlocal.ThreadLocalSingleton;
 
 public class ExectorThread implements  Runnable{
 

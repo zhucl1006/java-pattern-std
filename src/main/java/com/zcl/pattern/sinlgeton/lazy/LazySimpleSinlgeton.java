@@ -1,4 +1,4 @@
-package lazy;
+package com.zcl.pattern.sinlgeton.lazy;
 
 public class LazySimpleSinlgeton {
 

@@ -1,6 +1,6 @@
 package com.zcl.pattern.sinlgeton;
 
-import threadlocal.ThreadLocalSingleton;
+import com.zcl.pattern.sinlgeton.threadlocal.ThreadLocalSingleton;
 
 public class ThreadLocalSingletonTest {
     public static void main(String[] args) {
